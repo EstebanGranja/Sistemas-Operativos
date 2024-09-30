@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "command.h": "c",
+        "stdio.h": "c",
+        "glib.h": "/usr/include/glib-2.0"
+    }
+}
